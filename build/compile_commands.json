@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/Users/vasimov/Projects/Cpp/CppServer/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -o CMakeFiles/CppServer.dir/src/main.cpp.o -c /Users/vasimov/Projects/Cpp/CppServer/src/main.cpp",
-  "file": "/Users/vasimov/Projects/Cpp/CppServer/src/main.cpp"
-}
-]
